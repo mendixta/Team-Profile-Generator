@@ -31,4 +31,4 @@ Because I got stuck so much, now I know what works and what doesnt, being able t
 
 # Video Walkthrough:
 
-![]https://media.giphy.com/media/bFpOJRxO8IaUW4oxAA/giphy-downsized-large.gif
+<img src= "https://media.giphy.com/media/bFpOJRxO8IaUW4oxAA/giphy-downsized-large.gif">
