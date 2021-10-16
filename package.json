@@ -1,0 +1,21 @@
+{
+  "name": "profiles",
+  "version": "1.0.0",
+  "description": "an app to build profiles for a team",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mendixta"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Griselda Mendieta",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}

@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(184, 248, 242);
+    
+}
+
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 45px;    
+    border-radius: 15px;
+
+    padding: 30px;
+    text-align: center;
+    color: white;
+    background-color: rgb(63, 170, 170);
+
+
+}
+
+h2 {
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+    
+}
+
+
+h3 {
+    background-color: rgb(63, 170, 170);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+
+
+h4 {
+    background-color: rgb(63, 170, 170);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+
+
+}
+
+h5 {
+    background-color: rgb(63, 170, 170);
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+
+p {
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+
+
+
+
+
+}
+
+.manager {
+    
+    background-color: turquoise;
+    max-width: 100%;
+    width: 50%;
+    border-radius: 15px;
+    padding-bottom: 30px;
+
+
+
+
+}
+
+.intern {
+    background-color: turquoise;
+    max-width: 100%;
+    width: 50%;
+    border-radius: 15px;
+    padding-bottom: 30px;
+
+
+}
+
+.engineer {
+    background-color: turquoise;
+    max-width: 100%;
+    width: 50%;
+    border-radius: 15px;
+    padding-bottom: 30px;
+
+}
+
+.containers {
+    padding-left: 600px;
+}
