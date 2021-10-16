@@ -31,3 +31,4 @@ Because I got stuck so much, now I know what works and what doesnt, being able t
 
 # Video Walkthrough:
 
+<iframe src="https://giphy.com/embed/9g4n9p8lTsdIZI2G1g" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9g4n9p8lTsdIZI2G1g"></a></p>
